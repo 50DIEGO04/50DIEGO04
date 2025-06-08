@@ -10,7 +10,7 @@ Juan Diego</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente estudio en la Univerisidad Santo Tomas<a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 Actualmente estudio en la Univerisidad Santo Tomas
 
 - 🌱 Actualemnte me preparo para programar y mejorar mis habilidades para las tecnologia IoT
 

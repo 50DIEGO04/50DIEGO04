@@ -7,10 +7,10 @@
   </a>
 </p>
 
-<!-- Divider animado -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Acerca de mí -->
+
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Acerca de mí
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px"></picture>
@@ -39,15 +39,10 @@
   <a href="https://www.instagram.com/50diego04?igsh=MzB6bW9sNjNyNGQw">
     <img src="https://img.icons8.com/doodle/48/000000/instagram-new--v2.png"/>
   </a>
-  <a href="https://twitter.com/.j.diego">
-    <img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>
-  </a>
+
 </p>
 
-<!-- Divider -->
----
 
-<!-- Stats -->
 ## 📊 Estadísticas
 
 <p align="center">

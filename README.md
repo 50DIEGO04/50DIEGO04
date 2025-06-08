@@ -1,9 +1,9 @@
 <!-- Encabezado animado -->
-<h1 align="center">Hi 👋, I'm Juan Báez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola 👋, soy Juan Báez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DE1A&width=700&lines=Estudiante+de+Ingeniería+Electrónica;Apasionado+por+IoT+y+la+IA;Desarrollando+un+huerto+inteligente+con+Arduino;Fan+de+la+tecnología+y+el+campo;Siempre+aprendiendo+nuevas+cosas...">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DE1A&width=700&height=100&lines=Estudiante+de+Ingeniería+Electrónica;Apasionado+por+IoT+y+la+IA;Desarrollando+un+huerto+automático+con+Arduino;Me+gustan+los+robots+y+la+agricultura;Siempre+aprendiendo+nuevas+cosas...">
   </a>
 </p>
 
@@ -15,19 +15,19 @@
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px"></picture>
 
-- 🎓 Soy estudiante de Ingeniería Electrónica en la **Universidad Santo Tomás**.
-- 🤖 Miembro del **Grupo de Robótica**.
-- 🌱 Actualmente desarrollo un **huerto automático con Arduino**.
-- 💬 Me interesa aprender más sobre **IoT, Inteligencia Artificial** y su aplicación en la agricultura.
-- ⚙️ Trabajo también con **chatbots, ROS, Docker y Flask**.
-- 📘 Siempre estoy aprendiendo nuevas tecnologías y lenguajes de programación.
-- ✉️ Puedes escribirme a: **jdiegobaezg05@hotmail.com**
+- 🎓 Soy estudiante de **Ingeniería Electrónica** en la Universidad Santo Tomás, Primer Claustro Universitario de Colombia.  
+- 🤖 Miembro activo del **Grupo de Robótica**.  
+- 🌱 Actualmente estoy desarrollando un **huerto automático con Arduino**.  
+- 💬 Me interesa mucho aprender sobre **Internet de las Cosas (IoT)**, **Inteligencia Artificial** y su aplicación en la agricultura.  
+- ⚙️ También he trabajado con **chatbots**, **ROS**, **Flask**, **Docker**, **DeepSeek** y **simulación con Gazebo**.  
+- 📘 Siempre estoy aprendiendo nuevas tecnologías y herramientas digitales.  
+- ✉️ Puedes escribirme a: **jdiegobaezg05@hotmail.com**  
 
 <!-- Divider -->
 ---
 
 <!-- Redes sociales -->
-## 🌐 Conecta conmigo
+## 🌐 Conéctate conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-diego-baez-guerrero-232a25335/">
@@ -39,16 +39,13 @@
   <a href="https://www.instagram.com/50diego04?igsh=MzB6bW9sNjNyNGQw">
     <img src="https://img.icons8.com/doodle/48/000000/instagram-new--v2.png"/>
   </a>
-  <a href="https://twitter.com/.j.diego">
-    <img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>
-  </a>
 </p>
 
 <!-- Divider -->
 ---
 
 <!-- Stats -->
-## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=50DIEGO04&theme=tokyonight&show_icons=true&count_private=true" />
@@ -75,7 +72,7 @@
 
 <!-- Contador de visitas -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=50DIEGO04&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=50DIEGO04&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="Visitas al perfil"/>
 </p>
 
 <!-- Divider final -->
@@ -83,5 +80,5 @@
 
 ---
 
-💡 **Última actualización:** 8 de junio de 2025  
+🗓️ **Última actualización:** 8 de junio de 2025  
 🎨 **Créditos visuales:** [@7oSkaaa](https://github.com/7oSkaaa) | [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
